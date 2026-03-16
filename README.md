@@ -1,9 +1,8 @@
-# ilkecabral-ilkecabral
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:e94560&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+%5BILKE+CABRAL%5D+%F0%9F%91%8B;Cybersecurity+Student+%40+EPITA;CTF+Player;Homelab+Enthusiast;Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+%5Ilke+Cabral%5D+%F0%9F%91%8B;Cybersecurity+Student+%40+EPITA;CTF+Player;Homelab+Enthusiast;Always+learning.)](https://git.io/typing-svg)
 
 </div>
 
@@ -67,6 +66,8 @@ hobbies:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilkecabral&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=d0d0e0&border_color=16213e)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ilkecabral&theme=radical&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560&border=16213e)
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ilke.cabral.png)](https://tryhackme.com/p/ilke.cabral)
 
 </div>
 
