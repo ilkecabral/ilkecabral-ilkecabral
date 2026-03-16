@@ -69,6 +69,8 @@ hobbies:
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ilke.cabral.png)](https://tryhackme.com/p/ilke.cabral)
 
+[🔗 TryHackMe Profile](https://tryhackme.com/p/ilke.cabral)
+
 </div>
 
 ---
