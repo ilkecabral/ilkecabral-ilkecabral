@@ -12,7 +12,7 @@
 
 I'm currently pursuing my **Master's at EPITA**, specialising in cybersecurity, with a strong interest in networking, self-hosted infrastructure, and understanding how systems work at a low level.
 
-Currently building out **BuzzLab** — a personal home lab running on Proxmox VE — as a hands-on environment to learn, break things, and put them back together.
+Currently building out **BuzzLab**  a personal home lab running on Proxmox VE as a hands-on environment to learn, break things, and put them back together.
 
 ---
 
